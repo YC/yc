@@ -1,3 +1,3 @@
-### Hi, I'm Steven
+### Hi, I'm Steven.
 
 #### Coding activity (past 7 days)
