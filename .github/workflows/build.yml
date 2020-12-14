@@ -19,5 +19,3 @@ jobs:
           echo "\'\'\'" > code_block
           ./generate.sh > activity
           cat README.md code_block activity code_block
-        env:
-          - TIME_API_KEY
