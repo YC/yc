@@ -1,0 +1,23 @@
+name: Build README
+
+on:
+  push:
+    branches:
+      - 'source'
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - name: Check out repository code
+        uses: actions/checkout@v2
+
+      - name: Build README
+        run: |
+          echo "\'\'\'" > code_block
+          ./generate.sh > activity
+          cat README.md code_block activity code_block
+        env:
+          - TIME_API_KEY
