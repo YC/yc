@@ -5,6 +5,8 @@ on:
     branches:
       - 'source'
   workflow_dispatch:
+  schedule:
+    - cron:  '11 */2 * * *'
 
 jobs:
   test:
@@ -20,7 +22,21 @@ jobs:
             | jq -r '.languages[] | [.key, .total] | @csv' \
             | sed 's/"//g' \
             | python3 process.py \
-            | cat README.md -
+            | cat README.md - > README.temp
         env:
           TIME_API_URL: ${{ secrets.TIME_API_URL }}
           TIME_API_KEY: ${{ secrets.TIME_API_KEY }}
+
+      - name: Push to master
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "actions@github.com"
+
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git fetch origin master || true
+
+          git checkout master || git checkout -b master
+          mv README.temp README.md
+
+          git add -A
+          git commit -m "Build #$GITHUB_RUN_ID" && git push || true
