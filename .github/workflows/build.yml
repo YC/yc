@@ -16,9 +16,11 @@ jobs:
 
       - name: Build README
         run: |
-          echo "\'\'\'" > code_block
-          ./generate.sh > activity
-          cat README.md code_block activity code_block
+          curl -X GET "$TIME_API_URL" -H "Authorization: Basic $TIME_API_KEY" \
+            | jq -r '.languages[] | [.key, .total] | @csv' \
+            | sed 's/"//g' \
+            | python3 process.py \
+            | cat README.md -
         env:
           TIME_API_URL: ${{ secrets.TIME_API_URL }}
           TIME_API_KEY: ${{ secrets.TIME_API_KEY }}

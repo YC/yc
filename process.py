@@ -33,9 +33,11 @@ language_max_len = max(list(map(lambda x: len(x), times.keys())))
 
 blocks = 30
 
+print('```')
 for (key, value) in times.items():
     print(f"{key:{language_max_len}}", "",
           "█" * int(value / total * blocks) + "▒" * int(blocks - value / total * blocks),
           "",
           f"{timedelta(seconds=value)}", "",
           f"{value / total * 100:5.2f}%")
+print('```')
