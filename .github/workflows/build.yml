@@ -35,8 +35,5 @@ jobs:
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
           git fetch origin source || true
 
-          git checkout source || git checkout -b source
-          mv README.temp README.md
-
           git add -A
           git commit -m "Build #$GITHUB_RUN_ID" && git push || true
