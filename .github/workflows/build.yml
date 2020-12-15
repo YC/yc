@@ -22,20 +22,20 @@ jobs:
             | jq -r '.languages[] | [.key, .total] | @csv' \
             | sed 's/"//g' \
             | python3 process.py \
-            | cat README.md - > README.temp
+            | cat README.md.template - > README.md
         env:
           TIME_API_URL: ${{ secrets.TIME_API_URL }}
           TIME_API_KEY: ${{ secrets.TIME_API_KEY }}
 
-      - name: Push to master
+      - name: Push to source
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
 
           git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
-          git fetch origin master || true
+          git fetch origin source || true
 
-          git checkout master || git checkout -b master
+          git checkout source || git checkout -b source
           mv README.temp README.md
 
           git add -A
