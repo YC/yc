@@ -37,7 +37,7 @@ print('```')
 for key in sorted(times, key=times.get, reverse=True):
     value = times[key]
     print(f"{key:{language_max_len}}", "",
-          "█" * int(value / total * blocks) + "▒" * int(blocks - value / total * blocks),
+          "▓" * int(value / total * blocks) + "▒" * int(blocks - value / total * blocks),
           "",
           # f"{timedelta(seconds=value)}", "",
           f"{value / total * 100:5.2f}%")
