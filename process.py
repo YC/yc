@@ -28,6 +28,7 @@ for line in sys.stdin:
     times[language] = time
 
 total = sum(times.values())
+max_time = max(times.values())
 language_max_len = max(list(map(lambda x: len(x), times.keys())))
 
 blocks = 30
@@ -38,18 +39,22 @@ for key in sorted(times, key=times.get, reverse=True):
     value = times[key]
 
     # determine number of blocks
-    num_blocks = value / total * blocks
+    num_blocks = value / max_time * blocks
     (whole_blocks, rem) = (int(num_blocks // 1), num_blocks % 1)
 
     # fractional
     medium_blocks = 0
-    if rem > 0.5:
+    light_blocks = 0
+    if rem > 0.66:
         medium_blocks = 1
+    elif rem > 0.33:
+        light_blocks = 1
 
     print(f"{key:{language_max_len}}", "",
           "▓" * whole_blocks
           + "▒" * medium_blocks
-          + "░" * (blocks - whole_blocks - medium_blocks),
+          + "░" * light_blocks
+          + " " * (blocks - whole_blocks - medium_blocks - light_blocks),
           "",
           # f"{timedelta(seconds=value)}", "",
           f"{value / total * 100:5.2f}%")
