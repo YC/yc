@@ -2,7 +2,6 @@
 # Inspired by https://github.com/athul/athul
 
 import sys
-import json
 from collections import defaultdict
 from datetime import timedelta
 
@@ -35,9 +34,22 @@ blocks = 30
 
 print('```')
 for key in sorted(times, key=times.get, reverse=True):
+    # get value
     value = times[key]
+
+    # determine number of blocks
+    num_blocks = value / total * blocks
+    (whole_blocks, rem) = (int(num_blocks // 1), num_blocks % 1)
+
+    # fractional
+    medium_blocks = 0
+    if rem > 0.5:
+        medium_blocks = 1
+
     print(f"{key:{language_max_len}}", "",
-          "▓" * int(value / total * blocks) + "▒" * int(blocks - value / total * blocks),
+          "▓" * whole_blocks
+          + "▒" * medium_blocks
+          + "░" * (blocks - whole_blocks - medium_blocks),
           "",
           # f"{timedelta(seconds=value)}", "",
           f"{value / total * 100:5.2f}%")
