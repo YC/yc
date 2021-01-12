@@ -31,7 +31,7 @@ total = sum(times.values())
 max_time = max(times.values())
 language_max_len = max(list(map(lambda x: len(x), times.keys())))
 
-blocks = 30
+blocks = 25
 
 print('```')
 for key in sorted(times, key=times.get, reverse=True):
