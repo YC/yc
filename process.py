@@ -52,8 +52,8 @@ for key in sorted(times, key=times.get, reverse=True):
 
     print(f"{key:{language_max_len}}", "",
           "▓" * whole_blocks
-          + "▒" * medium_blocks
-          + "░" * light_blocks
+          + " " * medium_blocks
+          + " " * light_blocks
           + " " * (blocks - whole_blocks - medium_blocks - light_blocks),
           "",
           # f"{timedelta(seconds=value)}", "",
