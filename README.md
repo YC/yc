@@ -2,12 +2,12 @@
 
 #### Coding activity (past 7 days)
 ```
-C           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  66.88%
-Bash        ▓▓▓▓▓▓                          14.10%
-JavaScript  ▓▓                               5.61%
-TeX         ▓                                3.90%
-other       ▓                                3.60%
-C++         ▓                                2.51%
-Python                                       2.20%
-Text only                                    1.19%
+C           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  66.45%
+Bash        ▓▓▓▓▓▓                          14.66%
+JavaScript  ▓▓                               5.57%
+TeX         ▓                                3.87%
+other       ▓                                3.58%
+C++         ▓                                2.50%
+Python                                       2.19%
+Text only                                    1.18%
 ```
