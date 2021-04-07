@@ -2,12 +2,12 @@
 
 #### Coding activity (past 7 days)
 ```
-Bash        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  42.08%
-other       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                22.77%
-C           ▓▓▓▓▓▓▓▓▓▓▓                     16.82%
-Python      ▓▓▓▓▓▓▓▓                        11.38%
-Docker      ▓                                2.38%
-JavaScript  ▓                                2.34%
-Text only   ▓                                1.43%
-Makefile                                     0.81%
+Bash        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  42.84%
+other       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                22.85%
+C           ▓▓▓▓▓▓▓▓▓▓▓                     17.09%
+Python      ▓▓▓▓▓▓▓                         11.29%
+Docker      ▓                                2.43%
+Text only   ▓                                1.46%
+JavaScript                                   1.19%
+Makefile                                     0.83%
 ```
