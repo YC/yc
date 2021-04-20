@@ -14,10 +14,10 @@ for line in sys.stdin:
     language = line_split[0]
     time = int(line_split[1])
 
-    # less than 15 minutes
-    # if time < 60 * 15:
-    #     times['other'] += time
-    #     continue
+    # less than 10 minutes
+    if time < 60 * 10:
+        times['other'] += time
+        continue
 
     # unknown
     if language == 'unknown':
