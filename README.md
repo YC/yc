@@ -2,15 +2,15 @@
 
 #### Coding activity (past 7 days)
 ```
-C           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  48.03%
-other       ▓▓▓▓▓▓                          11.05%
-Bash        ▓▓▓▓▓▓                          10.70%
-Text only   ▓▓▓▓▓                            9.00%
-JavaScript  ▓▓▓▓                             7.59%
-Go          ▓▓                               4.12%
-C++         ▓                                2.99%
-TeX         ▓                                2.34%
-Makefile    ▓                                1.70%
-JSON                                         1.31%
-TypeScript                                   1.17%
+C           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  47.73%
+other       ▓▓▓▓▓▓▓                         11.28%
+Bash        ▓▓▓▓▓▓                          10.65%
+Text only   ▓▓▓▓▓                            9.34%
+JavaScript  ▓▓▓▓                             7.51%
+Go          ▓▓                               4.09%
+C++         ▓                                2.96%
+TeX         ▓                                2.31%
+Makefile    ▓                                1.68%
+JSON                                         1.30%
+TypeScript                                   1.15%
 ```
