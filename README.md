@@ -2,10 +2,11 @@
 
 #### Coding activity (past 7 days)
 ```
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  61.92%
-C           ▓▓▓▓▓▓▓▓▓                       20.50%
-other       ▓▓▓▓▓                           10.94%
-TypeScript  ▓                                2.94%
-Text only                                    2.03%
-Go                                           1.67%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  59.82%
+C           ▓▓▓▓▓▓▓▓▓                       19.81%
+other       ▓▓▓▓▓                           10.91%
+Text only   ▓                                3.44%
+TypeScript  ▓                                2.84%
+Go                                           1.61%
+JavaScript                                   1.56%
 ```
