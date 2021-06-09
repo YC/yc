@@ -3,14 +3,14 @@
 #### Coding activity (past 7 days)
 ```
 Text only   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  44.50%
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓                    19.13%
-JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓                    18.17%
-markdown    ▓▓▓▓                             6.45%
-C           ▓▓                               3.31%
-other       ▓                                2.29%
-JSON        ▓                                1.64%
-Python                                       1.33%
-SCSS                                         1.25%
-Ruby                                         1.02%
-HTML                                         0.89%
+JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓                    18.76%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓                    18.73%
+markdown    ▓▓▓▓                             6.51%
+C           ▓▓                               3.25%
+other       ▓                                2.24%
+JSON        ▓                                1.61%
+Python                                       1.30%
+SCSS                                         1.23%
+Ruby                                         1.00%
+HTML                                         0.87%
 ```
