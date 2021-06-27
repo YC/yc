@@ -2,12 +2,12 @@
 
 #### Coding activity (past 7 days)
 ```
-JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  52.13%
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓         40.77%
-BibTeX      ▓                                1.98%
-JSON                                         1.45%
-other                                        1.18%
-markdown                                     0.95%
-YAML                                         0.89%
-Python                                       0.64%
+JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  54.44%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           38.16%
+BibTeX      ▓                                2.07%
+JSON                                         1.51%
+other                                        1.23%
+markdown                                     1.00%
+YAML                                         0.93%
+Python                                       0.67%
 ```
