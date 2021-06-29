@@ -2,11 +2,11 @@
 
 #### Coding activity (past 7 days)
 ```
-JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  76.49%
-TeX         ▓▓▓                              7.82%
-other       ▓▓                               5.45%
-Rust        ▓                                4.50%
-YAML                                         2.43%
-JSON                                         2.02%
-Go                                           1.29%
+JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  74.81%
+TeX         ▓▓▓                              8.61%
+other       ▓▓                               5.76%
+Rust        ▓                                4.75%
+YAML        ▓                                2.57%
+JSON                                         2.13%
+Go                                           1.37%
 ```
