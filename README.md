@@ -2,12 +2,12 @@
 
 #### Coding activity (past 7 days)
 ```
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  44.25%
-Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓                  21.52%
-other       ▓▓▓▓▓▓▓                         11.10%
-markdown    ▓▓▓▓▓▓▓                         11.05%
-TypeScript  ▓▓▓                              5.57%
-JavaScript  ▓                                2.65%
-Bash        ▓                                2.16%
-TOML        ▓                                1.70%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  42.47%
+Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                 22.20%
+other       ▓▓▓▓▓▓▓▓                        11.45%
+markdown    ▓▓▓▓▓▓▓▓                        11.41%
+TypeScript  ▓▓▓▓                             5.74%
+JavaScript  ▓                                2.73%
+Bash        ▓                                2.23%
+TOML        ▓                                1.76%
 ```
