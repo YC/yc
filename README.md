@@ -2,8 +2,8 @@
 
 #### Coding activity (past 7 days)
 ```
-Text only   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  61.53%
-TypeScript  ▓▓▓▓▓▓▓▓▓▓                      21.06%
-Dart        ▓▓▓▓▓▓                          13.02%
-other       ▓▓                               4.39%
+Text only   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  66.65%
+TypeScript  ▓▓▓▓▓▓                          15.20%
+Dart        ▓▓▓▓▓▓                          14.11%
+other       ▓                                4.05%
 ```
