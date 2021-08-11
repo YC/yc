@@ -2,13 +2,13 @@
 
 #### Coding activity (past 7 days)
 ```
-TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  45.44%
-markdown    ▓▓▓▓▓▓▓▓▓▓▓                     17.36%
-JSON        ▓▓▓▓▓▓▓▓                        12.45%
-other       ▓▓▓▓▓▓                           9.44%
-Python      ▓▓▓                              5.71%
-CSS         ▓▓▓                              4.86%
-Docker      ▓                                1.90%
-Text only   ▓                                1.52%
-JavaScript                                   1.31%
+TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  44.03%
+markdown    ▓▓▓▓▓▓▓▓▓▓▓                     16.82%
+JSON        ▓▓▓▓▓▓▓▓▓                       13.98%
+other       ▓▓▓▓▓▓                           9.24%
+Python      ▓▓▓▓                             6.62%
+CSS         ▓▓▓                              4.71%
+Docker      ▓                                1.84%
+Text only   ▓                                1.48%
+JavaScript                                   1.27%
 ```
