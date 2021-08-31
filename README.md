@@ -2,11 +2,11 @@
 
 #### Coding activity (past 7 days)
 ```
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  68.74%
-Bash        ▓▓▓▓▓                           11.64%
-Python      ▓▓                               5.88%
-other       ▓▓                               5.45%
-HTML        ▓                                3.75%
-YAML        ▓                                2.41%
-JavaScript                                   2.12%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  65.68%
+Bash        ▓▓▓▓▓                           12.78%
+Python      ▓▓                               6.45%
+other       ▓▓                               5.98%
+HTML        ▓                                4.12%
+YAML        ▓                                2.65%
+JavaScript  ▓                                2.33%
 ```
