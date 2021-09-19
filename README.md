@@ -2,9 +2,9 @@
 
 #### Coding activity (past 7 days)
 ```
-TeX       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  90.30%
-markdown  ▓                                3.14%
-YAML                                       2.89%
-other                                      1.88%
-Bash                                       1.79%
+TeX       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  86.59%
+Bash      ▓                                3.96%
+markdown  ▓                                3.67%
+YAML      ▓                                3.04%
+other                                      2.74%
 ```
