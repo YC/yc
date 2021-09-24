@@ -2,11 +2,11 @@
 
 #### Coding activity (past 7 days)
 ```
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  64.93%
-Bash        ▓▓▓▓▓                           12.59%
-other       ▓▓▓                              8.54%
-Python      ▓▓                               5.57%
-Rust        ▓                                3.43%
-TypeScript  ▓                                3.19%
-markdown                                     1.75%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  64.00%
+Bash        ▓▓▓▓▓                           12.66%
+other       ▓▓▓▓                             9.13%
+Python      ▓▓                               5.96%
+Rust        ▓                                3.38%
+TypeScript  ▓                                3.14%
+markdown                                     1.72%
 ```
