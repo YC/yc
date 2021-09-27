@@ -2,12 +2,12 @@
 
 #### Coding activity (past 7 days)
 ```
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  68.27%
-Bash        ▓▓▓▓                             9.39%
-other       ▓▓▓                              7.28%
-Python      ▓▓                               5.65%
-Rust        ▓                                3.20%
-TypeScript  ▓                                2.98%
-Docker                                       2.02%
-C#                                           1.21%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  70.86%
+Bash        ▓▓▓                              8.82%
+Python      ▓▓                               5.57%
+other       ▓▓                               5.51%
+Rust        ▓                                3.16%
+TypeScript  ▓                                2.94%
+Docker                                       1.94%
+C#                                           1.20%
 ```
