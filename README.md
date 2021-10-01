@@ -2,12 +2,12 @@
 
 #### Coding activity (past 7 days)
 ```
-TeX     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  71.73%
-Python  ▓▓▓                              8.56%
-Rust    ▓▓                               6.23%
-Dart    ▓                                4.05%
-other   ▓                                3.93%
-Bash    ▓                                2.46%
-Docker                                   1.82%
-YAML                                     1.21%
+TeX     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  77.46%
+Rust    ▓▓                               6.73%
+Dart    ▓                                4.37%
+Python  ▓                                3.42%
+other   ▓                                2.88%
+Docker                                   1.97%
+Bash                                     1.86%
+YAML                                     1.30%
 ```
