@@ -2,12 +2,10 @@
 
 #### Coding activity (past 7 days)
 ```
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  76.19%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  76.00%
+JavaScript  ▓▓                               7.18%
 Rust        ▓▓                               6.78%
-Dart        ▓                                4.40%
-JavaScript  ▓                                3.45%
-other       ▓                                3.37%
+Dart        ▓                                4.41%
 Python      ▓                                3.09%
-Bash                                         1.61%
-Docker                                       1.12%
+other       ▓                                2.55%
 ```
