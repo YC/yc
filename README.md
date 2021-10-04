@@ -2,11 +2,11 @@
 
 #### Coding activity (past 7 days)
 ```
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  69.70%
-JavaScript  ▓▓▓▓                            10.34%
-Rust        ▓▓▓                              7.89%
-Dart        ▓▓                               5.13%
-Python      ▓                                3.59%
-other                                        1.95%
-JSON                                         1.38%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  67.83%
+JavaScript  ▓▓▓▓                            10.98%
+Rust        ▓▓▓                              8.38%
+Dart        ▓▓                               5.45%
+Python      ▓                                3.82%
+other                                        2.07%
+JSON                                         1.47%
 ```
