@@ -2,7 +2,7 @@
 
 #### Coding activity (past 7 days)
 ```
-JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  81.27%
-JSON        ▓▓▓▓                            11.40%
-other       ▓▓                               7.33%
+JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  78.94%
+JSON        ▓▓▓▓                            12.81%
+other       ▓▓▓                              8.25%
 ```
