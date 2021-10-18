@@ -2,9 +2,9 @@
 
 #### Coding activity (past 7 days)
 ```
-Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  81.11%
-other       ▓▓▓                              9.99%
-TypeScript  ▓                                4.90%
-Dart                                         2.13%
-YAML                                         1.87%
+Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  80.97%
+other       ▓▓▓                             10.74%
+TypeScript  ▓                                4.56%
+Dart                                         1.99%
+YAML                                         1.74%
 ```
