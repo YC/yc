@@ -2,7 +2,8 @@
 
 #### Coding activity (past 7 days)
 ```
-TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  62.53%
-other       ▓▓▓▓▓▓▓▓▓                       19.90%
-Python      ▓▓▓▓▓▓▓▓                        17.57%
+TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  61.23%
+Python      ▓▓▓▓▓▓▓▓                        16.61%
+JavaScript  ▓▓▓▓▓▓                          13.20%
+other       ▓▓▓▓                             8.96%
 ```
