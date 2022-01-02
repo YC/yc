@@ -2,9 +2,9 @@
 
 #### Coding activity (past 7 days)
 ```
-Go          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  60.69%
-JavaScript  ▓▓▓▓▓                           11.70%
-Python      ▓▓▓▓▓                           11.17%
-other       ▓▓▓▓▓                           10.83%
-TypeScript  ▓▓                               5.61%
+Go          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  59.01%
+other       ▓▓▓▓▓▓▓                         14.35%
+JavaScript  ▓▓▓▓▓                           10.95%
+Python      ▓▓▓▓▓                           10.45%
+TypeScript  ▓▓                               5.25%
 ```
