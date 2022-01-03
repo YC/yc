@@ -2,11 +2,12 @@
 
 #### Coding activity (past 7 days)
 ```
-Go          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  52.77%
-other       ▓▓▓▓▓▓▓                         14.00%
-JavaScript  ▓▓▓▓▓                            9.25%
-Python      ▓▓▓▓▓                            8.83%
-Properties  ▓▓▓                              5.80%
-YAML        ▓▓                               4.93%
-TypeScript  ▓▓                               4.43%
+Go          ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  45.58%
+Docker      ▓▓▓▓▓▓▓▓▓▓▓                     16.73%
+other       ▓▓▓▓▓▓                           9.31%
+JavaScript  ▓▓▓▓▓                            7.74%
+Python      ▓▓▓▓                             7.39%
+Properties  ▓▓▓                              4.86%
+YAML        ▓▓▓                              4.68%
+TypeScript  ▓▓                               3.71%
 ```
