@@ -2,10 +2,10 @@
 
 #### Coding activity (past 7 days)
 ```
-Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  47.43%
-JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓                    19.47%
-Ruby        ▓▓▓▓▓▓▓▓                        12.96%
-other       ▓▓▓▓▓▓▓                         12.44%
-Markdown    ▓▓                               4.25%
-Handlebars  ▓▓                               3.45%
+Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  47.80%
+JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓                   20.77%
+Ruby        ▓▓▓▓▓▓▓                         12.35%
+other       ▓▓▓▓▓▓▓                         11.94%
+Markdown    ▓▓                               3.64%
+Handlebars  ▓▓                               3.49%
 ```
