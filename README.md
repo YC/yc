@@ -2,11 +2,11 @@
 
 #### Coding activity (past 7 days)
 ```
-JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  45.78%
-other       ▓▓▓▓▓▓▓▓▓                       15.26%
-Rust        ▓▓▓▓▓▓▓▓                        13.43%
-Markdown    ▓▓▓▓▓▓▓                         10.88%
-Handlebars  ▓▓▓▓                             7.41%
-Python      ▓▓                               3.68%
-JSON        ▓▓                               3.58%
+JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  41.07%
+other       ▓▓▓▓▓▓▓▓▓▓▓▓                    16.94%
+Rust        ▓▓▓▓▓▓▓▓▓▓▓                     15.59%
+Markdown    ▓▓▓▓▓▓▓▓▓                       12.62%
+Handlebars  ▓▓▓▓                             6.13%
+Python      ▓▓▓                              4.27%
+JSON        ▓▓                               3.38%
 ```
