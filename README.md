@@ -2,10 +2,10 @@
 
 #### Coding activity (past 7 days)
 ```
-Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  63.68%
-Markdown    ▓▓▓▓▓▓                          13.41%
-other       ▓▓▓▓▓                           10.65%
-Text        ▓▓                               5.57%
-JavaScript  ▓                                3.39%
-Python      ▓                                3.31%
+Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  56.34%
+Text        ▓▓▓▓▓▓▓▓                        16.56%
+Markdown    ▓▓▓▓▓▓                          11.86%
+other       ▓▓▓▓▓                            9.76%
+JavaScript  ▓                                3.00%
+Python      ▓                                2.47%
 ```
