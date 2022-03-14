@@ -2,12 +2,12 @@
 
 #### Coding activity (past 7 days)
 ```
-Rust      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  53.27%
-Text      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                 27.69%
-Bash      ▓▓▓                              6.56%
-other     ▓▓                               4.30%
-Markdown  ▓▓                               3.86%
-YAML      ▓                                1.98%
-Makefile                                   1.27%
-HTML                                       1.07%
+Rust      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  52.83%
+Text      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                 27.85%
+Bash      ▓▓▓                              6.76%
+other     ▓▓                               4.45%
+Markdown  ▓▓                               3.82%
+YAML      ▓                                1.96%
+Makefile                                   1.26%
+HTML                                       1.06%
 ```
