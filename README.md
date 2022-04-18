@@ -2,11 +2,11 @@
 
 #### Coding activity (past 7 days)
 ```
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  58.51%
-JavaScript  ▓▓▓▓▓▓▓▓▓                       17.93%
-HTML        ▓▓▓▓▓▓▓                         14.78%
-Text        ▓                                2.73%
-TypeScript  ▓                                2.09%
-Handlebars  ▓                                2.02%
-other                                        1.93%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  63.18%
+HTML        ▓▓▓▓▓▓                          14.11%
+JavaScript  ▓▓▓▓▓▓                          13.06%
+TypeScript  ▓▓                               4.45%
+Text        ▓                                2.74%
+Handlebars                                   1.81%
+other                                        0.66%
 ```
