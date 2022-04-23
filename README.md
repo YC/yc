@@ -2,8 +2,8 @@
 
 #### Coding activity (past 7 days)
 ```
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  61.89%
-TypeScript  ▓▓▓▓▓▓▓▓▓▓▓                     23.46%
-JavaScript  ▓▓▓▓▓                           11.08%
-other       ▓                                3.58%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  56.56%
+TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓                  26.74%
+JavaScript  ▓▓▓▓▓▓                          12.62%
+other       ▓▓                               4.08%
 ```
