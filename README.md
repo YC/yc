@@ -2,10 +2,10 @@
 
 #### Coding activity (past 7 days)
 ```
-TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  46.37%
-other       ▓▓▓▓▓▓▓▓▓▓▓▓▓                   21.12%
-JavaScript  ▓▓▓▓▓▓▓▓▓                       15.14%
-Rust        ▓▓▓▓                             7.43%
-TeX         ▓▓▓                              5.41%
-Handlebars  ▓▓                               4.54%
+TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  46.10%
+other       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓                  21.58%
+JavaScript  ▓▓▓▓▓▓▓▓▓                       15.05%
+Rust        ▓▓▓▓                             7.38%
+TeX         ▓▓▓                              5.38%
+Handlebars  ▓▓                               4.51%
 ```
