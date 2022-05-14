@@ -2,14 +2,13 @@
 
 #### Coding activity (past 7 days)
 ```
-Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  42.71%
-JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                23.14%
-Bash        ▓▓▓▓▓▓▓                         10.68%
-other       ▓▓▓▓▓                            8.05%
-Python      ▓▓▓                              5.06%
-C           ▓▓▓                              4.64%
-Handlebars  ▓                                2.28%
-JSON                                         1.24%
-Rust                                         1.17%
-CSS                                          1.04%
+Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  43.25%
+JavaScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                23.44%
+Bash        ▓▓▓▓▓▓▓                         10.82%
+other       ▓▓▓▓▓                            8.19%
+Python      ▓▓▓                              5.12%
+C           ▓▓▓                              4.57%
+Handlebars  ▓                                2.30%
+JSON                                         1.26%
+CSS                                          1.05%
 ```
