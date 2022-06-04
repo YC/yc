@@ -2,10 +2,11 @@
 
 #### Coding activity (past 7 days)
 ```
-C           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  75.20%
-other       ▓▓▓▓▓▓                          17.35%
-TypeScript  ▓                                4.07%
-Makefile                                     1.33%
-Bash                                         1.23%
-JavaScript                                   0.83%
+C           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  74.07%
+other       ▓▓▓▓▓▓                          16.38%
+Text        ▓                                4.12%
+TypeScript                                   2.11%
+Makefile                                     1.31%
+Bash                                         1.21%
+JavaScript                                   0.82%
 ```
