@@ -2,9 +2,8 @@
 
 #### Coding activity (past 7 days)
 ```
-Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  78.23%
-JavaScript  ▓▓▓▓▓                           15.31%
-Bash        ▓                                2.76%
-C                                            2.11%
-other                                        1.59%
+Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  79.97%
+JavaScript  ▓▓▓▓▓                           15.65%
+Bash        ▓                                2.82%
+other                                        1.56%
 ```
