@@ -2,8 +2,8 @@
 
 #### Coding activity (past 7 days)
 ```
-Markdown    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  74.71%
-Text        ▓▓▓▓▓                           13.19%
-other       ▓▓▓                              7.49%
-TypeScript  ▓                                4.62%
+Markdown    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  70.77%
+Text        ▓▓▓▓▓▓▓                         17.76%
+other       ▓▓▓                              7.09%
+TypeScript  ▓                                4.37%
 ```
