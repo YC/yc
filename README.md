@@ -2,11 +2,11 @@
 
 #### Coding activity (past 7 days)
 ```
-Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  52.37%
-TypeScript  ▓▓▓▓▓▓▓                         13.00%
-YAML        ▓▓▓▓▓▓                          11.10%
-TOML        ▓▓▓▓▓                            9.47%
-other       ▓▓▓▓                             8.26%
-Markdown    ▓                                2.95%
-TeX         ▓                                2.85%
+Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  50.51%
+YAML        ▓▓▓▓▓▓▓▓                        14.27%
+TypeScript  ▓▓▓▓▓▓▓                         12.53%
+TOML        ▓▓▓▓▓                            9.13%
+other       ▓▓▓▓                             7.97%
+Markdown    ▓                                2.84%
+TeX         ▓                                2.75%
 ```
