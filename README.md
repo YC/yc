@@ -2,12 +2,13 @@
 
 #### Coding activity (past 7 days)
 ```
-Rust      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  60.23%
-YAML      ▓▓▓▓▓▓▓                         14.91%
-TOML      ▓▓▓▓                             9.28%
-Bash      ▓▓▓                              6.31%
-other     ▓▓                               4.52%
-Markdown                                   1.79%
-Go                                         1.50%
-Docker                                     1.47%
+Rust      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  56.45%
+YAML      ▓▓▓▓▓▓▓                         13.94%
+TOML      ▓▓▓▓                             8.68%
+Text      ▓▓▓                              6.64%
+Bash      ▓▓▓                              5.90%
+other     ▓▓                               3.94%
+Markdown                                   1.68%
+Go                                         1.40%
+Docker                                     1.37%
 ```
