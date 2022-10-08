@@ -2,10 +2,10 @@
 
 #### Coding activity (past 7 days)
 ```
-Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  75.40%
-other       ▓▓                               7.24%
-HTML        ▓▓                               5.94%
-JavaScript  ▓▓                               5.84%
-C#          ▓                                3.09%
-JSON                                         2.49%
+Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  74.71%
+other       ▓▓                               7.22%
+HTML        ▓▓                               5.88%
+JavaScript  ▓▓                               5.79%
+C#          ▓                                3.51%
+JSON        ▓                                2.89%
 ```
