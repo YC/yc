@@ -2,12 +2,12 @@
 
 #### Coding activity (past 7 days)
 ```
-Rust    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  75.92%
-Text    ▓▓▓▓▓                           13.29%
-other   ▓                                4.10%
-LLVM                                     1.84%
-C                                        1.43%
-Python                                   1.25%
-Bash                                     1.25%
-TOML                                     0.91%
+Rust    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  75.28%
+Text    ▓▓▓▓▓                           12.72%
+other   ▓                                4.51%
+LLVM                                     2.42%
+C                                        1.78%
+Bash                                     1.20%
+Python                                   1.20%
+TOML                                     0.87%
 ```
