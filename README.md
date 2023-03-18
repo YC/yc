@@ -2,11 +2,11 @@
 
 #### Coding activity (past 7 days)
 ```
-C           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  70.89%
-Rust        ▓▓▓▓▓                           13.09%
-Text        ▓▓▓                              9.40%
-other                                        2.33%
-Bash                                         1.67%
-TypeScript                                   1.35%
-Makefile                                     1.26%
+C           ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  68.23%
+Rust        ▓▓▓▓▓▓▓                         15.95%
+Text        ▓▓▓▓                             9.29%
+other       ▓                                2.30%
+Bash                                         1.65%
+TypeScript                                   1.33%
+Makefile                                     1.24%
 ```
