@@ -2,13 +2,14 @@
 
 #### Coding activity (past 7 days)
 ```
-Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  54.95%
-Bash        ▓▓▓▓▓                           10.96%
-other       ▓▓▓▓▓                            9.90%
-C           ▓▓▓▓▓                            9.83%
-TeX         ▓▓▓▓                             7.71%
-Makefile    ▓                                2.44%
-Text        ▓                                1.86%
-TypeScript                                   1.41%
-Docker                                       0.94%
+Rust        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  53.48%
+Bash        ▓▓▓▓▓▓                          10.85%
+C           ▓▓▓▓▓                            9.57%
+other       ▓▓▓▓▓                            9.40%
+TeX         ▓▓▓▓                             7.50%
+YAML        ▓                                2.55%
+Makefile    ▓                                2.39%
+Text        ▓                                1.99%
+TypeScript                                   1.37%
+Docker                                       0.92%
 ```
