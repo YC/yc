@@ -2,11 +2,10 @@
 
 #### Coding activity (past 7 days)
 ```
-Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  51.47%
-Rust        ▓▓▓▓▓▓▓▓▓▓                      18.50%
-TypeScript  ▓▓▓▓▓▓▓▓                        13.84%
-Python      ▓▓▓▓                             7.54%
-JSON        ▓                                3.07%
-JavaScript  ▓                                3.07%
-other       ▓                                2.53%
+Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  50.24%
+Rust        ▓▓▓▓▓▓▓▓▓▓▓▓                    21.21%
+TypeScript  ▓▓▓▓▓▓▓▓▓                       15.86%
+other       ▓▓▓                              5.66%
+JavaScript  ▓▓                               3.51%
+JSON        ▓▓                               3.51%
 ```
