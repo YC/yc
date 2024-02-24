@@ -1,10 +1,12 @@
-### Hi, I'm Steven.
+### Steven (YiChun) Tang
+
+I'm a software engineer based in Melbourne, Australia.
 
 #### Coding activity (past 7 days)
 ```
-TeX       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  78.64%
-Bash      ▓▓▓▓▓                           14.43%
-Python    ▓                                2.73%
-other     ▓                                2.64%
+TeX       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  78.29%
+Bash      ▓▓▓▓▓                           14.65%
+other     ▓                                2.79%
+Python    ▓                                2.72%
 Markdown                                   1.56%
 ```
