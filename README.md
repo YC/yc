@@ -4,12 +4,12 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-TeX     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  32.98%
-other   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓         26.11%
-C       ▓▓▓▓▓▓▓▓▓▓▓▓                    13.57%
-Text    ▓▓▓▓▓▓▓▓▓                        9.94%
-Bash    ▓▓▓▓▓                            6.04%
-Rust    ▓▓▓▓▓                            5.58%
-Python  ▓▓                               3.16%
-Docker  ▓▓                               2.62%
+TeX     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  34.61%
+other   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓          25.80%
+C       ▓▓▓▓▓▓▓▓▓▓▓▓▓                   15.31%
+Text    ▓▓▓▓▓▓                           7.92%
+Bash    ▓▓▓▓▓                            6.29%
+Rust    ▓▓▓                              4.00%
+Python  ▓▓                               3.31%
+Docker  ▓▓                               2.75%
 ```
