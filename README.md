@@ -4,10 +4,10 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-other   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  30.24%
-Bash    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓    28.94%
+other   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  30.25%
+Bash    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓    28.95%
 Text    ▓▓▓▓▓▓▓▓▓▓▓▓                    12.28%
-Docker  ▓▓▓▓▓▓▓▓▓▓▓▓                    12.24%
+Docker  ▓▓▓▓▓▓▓▓▓▓▓▓                    12.25%
 Rust    ▓▓▓▓▓▓▓▓                         8.38%
-E-mail  ▓▓▓▓▓▓▓                          7.93%
+E-mail  ▓▓▓▓▓▓▓                          7.89%
 ```
