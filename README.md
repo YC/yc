@@ -1,12 +1,12 @@
-### Steven (YiChun) Tang
+### Steven (Yichun) Tang
 
 I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-Bash    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  38.14%
-Text    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓       32.11%
-Python  ▓▓▓▓▓▓▓▓▓▓                      12.96%
-other   ▓▓▓▓▓▓▓▓                        10.40%
-YAML    ▓▓▓▓▓                            6.38%
+Bash    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  37.36%
+Text    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓       31.45%
+Python  ▓▓▓▓▓▓▓▓▓▓▓                     14.74%
+other   ▓▓▓▓▓▓▓▓                        10.20%
+YAML    ▓▓▓▓▓                            6.25%
 ```
