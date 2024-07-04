@@ -4,7 +4,8 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-Markdown  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  84.43%
-other     ▓▓▓                              9.05%
-YAML      ▓▓                               6.52%
+Markdown  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  68.25%
+Dart      ▓▓▓▓                            11.37%
+other     ▓▓▓▓                            10.75%
+YAML      ▓▓▓▓                             9.64%
 ```
