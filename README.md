@@ -4,12 +4,12 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-Markdown  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  25.48%
-Text      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓         20.24%
-Dart      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓         19.74%
-Python    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓              16.01%
-Bash      ▓▓▓▓▓▓▓                          6.40%
-YAML      ▓▓▓▓▓▓                           5.77%
-other     ▓▓▓▓                             3.82%
-Groovy    ▓▓                               2.54%
+Markdown  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  25.25%
+Dart      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓        20.47%
+Text      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓         20.06%
+Python    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓              15.86%
+Bash      ▓▓▓▓▓▓▓                          6.34%
+YAML      ▓▓▓▓▓▓                           5.72%
+other     ▓▓▓▓                             3.79%
+Groovy    ▓▓                               2.52%
 ```
