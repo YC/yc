@@ -4,12 +4,12 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  32.81%
-Dart        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓          24.44%
-Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓                  15.48%
-Go          ▓▓▓▓▓▓▓                          8.09%
-TypeScript  ▓▓▓▓▓▓▓                          7.91%
-Bash        ▓▓▓▓▓                            5.80%
-JSON        ▓▓                               2.94%
-other       ▓▓                               2.52%
+TeX         ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  34.87%
+Dart        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓            23.69%
+Text        ▓▓▓▓▓▓▓▓▓▓▓▓                    15.01%
+Go          ▓▓▓▓▓▓                           7.85%
+TypeScript  ▓▓▓▓▓▓                           7.67%
+Bash        ▓▓▓▓                             5.62%
+JSON        ▓▓                               2.85%
+other       ▓▓                               2.45%
 ```
