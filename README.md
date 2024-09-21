@@ -4,9 +4,9 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-Python  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  67.59%
-TeX     ▓▓▓▓▓▓                          13.93%
-Bash    ▓▓▓▓                            10.34%
-Text    ▓▓                               5.47%
-other   ▓                                2.67%
+Python  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  69.34%
+TeX     ▓▓▓▓▓                           11.77%
+Bash    ▓▓▓▓                            10.97%
+Text    ▓▓                               5.81%
+other                                    2.11%
 ```
