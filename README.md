@@ -4,9 +4,9 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  29.51%
-Dart        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓     27.06%
-other       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓          21.85%
-Markdown    ▓▓▓▓▓▓▓▓▓▓▓▓▓                   12.79%
-Rust        ▓▓▓▓▓▓▓▓                         8.79%
+TypeScript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  32.75%
+other       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓          24.25%
+Dart        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓               19.04%
+Markdown    ▓▓▓▓▓▓▓▓▓▓▓▓▓                   14.20%
+Rust        ▓▓▓▓▓▓▓▓                         9.76%
 ```
