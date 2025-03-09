@@ -4,7 +4,8 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-Rust    ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  70.36%
-Python  ▓▓▓▓▓▓▓▓▓▓                      24.64%
-other   ▓▓                               4.99%
+Rust      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  68.96%
+Python    ▓▓▓▓▓▓▓▓▓▓                      24.15%
+Markdown  ▓                                3.75%
+other     ▓                                3.14%
 ```
