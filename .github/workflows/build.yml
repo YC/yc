@@ -17,12 +17,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Build README
-        run: |
-          curl -X GET "$TIME_API_URL" -H "Authorization: Basic $TIME_API_KEY" \
-            | jq -r '.languages[] | [.key, .total] | @csv' \
-            | sed 's/"//g' \
-            | python3 process.py \
-            | cat README.md.template - > README.md
+        run: ./populate.sh
         env:
           TIME_API_URL: ${{ secrets.TIME_API_URL }}
           TIME_API_KEY: ${{ secrets.TIME_API_KEY }}
