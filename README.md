@@ -4,9 +4,9 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-Docker      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  26.73%
-Json        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓         20.75%
-other       ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           19.29%
-Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓           18.98%
-Typescript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                 14.25%
+Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  38.56%
+Docker      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓                 20.06%
+Json        ▓▓▓▓▓▓▓▓▓▓▓▓                    15.57%
+other       ▓▓▓▓▓▓▓▓▓▓▓                     15.11%
+Typescript  ▓▓▓▓▓▓▓▓                        10.69%
 ```
