@@ -4,12 +4,12 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-Rust      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  53.95%
-Text      ▓▓▓▓▓▓▓▓▓▓                      18.40%
-C         ▓▓▓▓▓▓                          11.44%
-Makefile  ▓▓                               4.78%
-other     ▓                                3.40%
-TOML      ▓                                3.05%
-Docker    ▓                                2.63%
-Go        ▓                                2.34%
+Rust      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  55.44%
+Text      ▓▓▓▓▓▓▓▓▓                       17.03%
+C         ▓▓▓▓▓▓                          11.86%
+Makefile  ▓▓                               4.63%
+TOML      ▓                                3.27%
+other     ▓                                3.17%
+Docker    ▓                                2.44%
+Go        ▓                                2.17%
 ```
