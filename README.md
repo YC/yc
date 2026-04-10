@@ -6,7 +6,7 @@ I'm a software engineer based in Melbourne, Australia.
 ```
 Rust      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  60.43%
 Makefile  ▓▓▓▓▓▓                          13.59%
-C         ▓▓▓▓▓                           10.15%
+C         ▓▓▓▓▓                           10.14%
 Text      ▓▓▓▓                             9.34%
 TOML      ▓                                3.29%
 Docker                                     1.34%
