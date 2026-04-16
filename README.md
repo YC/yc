@@ -4,9 +4,9 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-Rust      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  90.02%
-C         ▓                                5.43%
-Makefile                                   2.21%
-TOML                                       1.37%
-other                                      0.97%
+Rust      ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  89.65%
+C         ▓                                5.85%
+Makefile                                   2.19%
+TOML                                       1.35%
+other                                      0.96%
 ```
