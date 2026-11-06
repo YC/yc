@@ -4,9 +4,9 @@ I'm a software engineer based in Melbourne, Australia.
 
 #### Personal Coding Activity (past 7 days)
 ```
-Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  46.93%
-Typescript  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓                  22.82%
-TOML        ▓▓▓▓▓▓▓▓▓▓▓                     18.36%
-Rust        ▓▓▓▓▓▓                           9.72%
-other       ▓                                2.18%
+Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  52.76%
+Typescript  ▓▓▓▓▓▓▓▓▓▓                      19.10%
+TOML        ▓▓▓▓▓▓▓▓▓                       17.07%
+Rust        ▓▓▓▓▓                            9.04%
+other       ▓                                2.02%
 ```
