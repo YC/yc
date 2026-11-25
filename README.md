@@ -6,5 +6,5 @@ I'm a software engineer based in Melbourne, Australia.
 ```
 Text        ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  71.59%
 Typescript  ▓▓▓▓▓▓▓▓▓                       22.27%
-other       ▓▓                               6.14%
+other       ▓▓                               6.15%
 ```
